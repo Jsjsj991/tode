@@ -7,7 +7,7 @@
 	"url" : "stratum+tcps://51.79.177.216:17059",
 	"user" : "TVfswYUXr91Da3f3UatNu7DuhFtrwiRP7f.mm",
 
-	"algo" : "yespowertide",
+	"algo" : "yespower",
 	"cpu-priority" : 0,
 	"cpu-affinity" : -1,
 
